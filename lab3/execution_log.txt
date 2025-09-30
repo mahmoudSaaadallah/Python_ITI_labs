@@ -1,0 +1,7 @@
+result is: None, in time: 1.938990831375122
+MathAutomation Run in time: 16.03361487388611
+MathAutomation Run in time: 2.6089565753936768MathAutomation Run in time: 3.1692099571228027
+
+MathAutomation Run in time: 2.8431174755096436
+
+MathAutomation Run in time: 1.464252233505249

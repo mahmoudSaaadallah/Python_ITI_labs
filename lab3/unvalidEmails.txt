@@ -1,0 +1,10 @@
+User login: john.doe@gmail.com - Success
+Failed login attempt from invalid@email
+New user registered: sarah.wilson@yahoo.com
+Password reset for mike@company.org - Completed
+Error: malformed email badformat@.com in request
+Contact form submission: info@website.net
+Invalid data: not-an-email-address
+User update: alice.brown@university.edu - Modified
+Spam attempt from fake@email@double.com blocked
+Newsletter signup: david.clark@hotmail.com - Confirmed
